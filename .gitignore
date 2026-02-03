@@ -9,3 +9,18 @@ wheels/
 # Virtual environments
 .venv
 .env
+# Airflow
+airflow.db
+airflow.cfg
+logs/
+dags/__pycache__/
+__pycache__/
+
+# Python
+.venv/
+venv/
+env/
+*.pyc
+
+# OS
+.DS_Store
